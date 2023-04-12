@@ -7,8 +7,11 @@
 
 import SwiftUI
 
+
+
 @main
 struct CarvixApp: App {
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
