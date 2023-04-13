@@ -14,6 +14,7 @@
 		3DF4555429E6E968002FB66D /* CarvixTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF4555329E6E968002FB66D /* CarvixTests.swift */; };
 		3DF4555E29E6E968002FB66D /* CarvixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF4555D29E6E968002FB66D /* CarvixUITests.swift */; };
 		3DF4556029E6E968002FB66D /* CarvixUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF4555F29E6E968002FB66D /* CarvixUITestsLaunchTests.swift */; };
+		3DF4556D29E7FA24002FB66D /* CarvixCrawler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF4556C29E7FA24002FB66D /* CarvixCrawler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3DF4555929E6E968002FB66D /* CarvixUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarvixUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DF4555D29E6E968002FB66D /* CarvixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarvixUITests.swift; sourceTree = "<group>"; };
 		3DF4555F29E6E968002FB66D /* CarvixUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarvixUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3DF4556C29E7FA24002FB66D /* CarvixCrawler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarvixCrawler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				3DF4554429E6E967002FB66D /* ContentView.swift */,
 				3DF4554629E6E968002FB66D /* Assets.xcassets */,
 				3DF4554829E6E968002FB66D /* Preview Content */,
+				3DF4556C29E7FA24002FB66D /* CarvixCrawler.swift */,
 			);
 			path = Carvix;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				3DF4554529E6E967002FB66D /* ContentView.swift in Sources */,
 				3DF4554329E6E967002FB66D /* CarvixApp.swift in Sources */,
+				3DF4556D29E7FA24002FB66D /* CarvixCrawler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
